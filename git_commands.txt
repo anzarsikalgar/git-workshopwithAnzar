@@ -14,3 +14,17 @@ git remote add origin1 https://github.com/anzarsikalgar/TestRepo8.git
 git push -u origin1 master
 ls
 git init
+vi file3.txt
+git status
+vi file1.txt
+vi file2.txt
+vi file3.txt
+git status
+git diff --staged
+git diff --cached
+git diff
+git diff
+git init
+git status
+git add .
+git commit -m "1st commit"
