@@ -1,0 +1,16 @@
+git status
+git add .
+git sttaus
+git status
+git commit -m "C3-M"
+git merge bug2
+vi file1.txt
+git add .
+git commit -m "C4-M"
+git push -u origin master
+git remote add origin https://github.com/anzarsikalgar/TestRepo7.git
+git push -u origin master
+git remote add origin1 https://github.com/anzarsikalgar/TestRepo8.git
+git push -u origin1 master
+ls
+git init
