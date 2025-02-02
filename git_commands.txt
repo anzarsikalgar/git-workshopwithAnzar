@@ -28,3 +28,5 @@ git init
 git status
 git add .
 git commit -m "1st commit"
+
+this is new changes
